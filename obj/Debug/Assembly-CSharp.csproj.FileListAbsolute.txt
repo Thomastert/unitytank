@@ -1,0 +1,12 @@
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\Assembly-CSharp.dll
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\UnityEditor.dll
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\UnityEngine.dll
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\UnityEngine.UI.dll
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\Mono.Cecil.dll
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\nunit.framework.dll
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\Unity.DataContract.dll
+C:\School stuff\periode 2\dip\unity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\School stuff\periode 2\dip\unity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\School stuff\periode 2\dip\unity\obj\Debug\Assembly-CSharp.dll
+C:\School stuff\periode 2\dip\unity\obj\Debug\Assembly-CSharp.pdb
